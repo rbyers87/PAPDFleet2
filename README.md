@@ -26,3 +26,8 @@ export default defineConfig({
     historyApiFallback: true,
   },
 });
+
+
+where is the new settings tab?
+
+My apologies, I omitted the actual rendering of the "Work Order Template" tab content in the previous response. I'll add the UI elements for managing location options within the "Work Order Template" tab.
